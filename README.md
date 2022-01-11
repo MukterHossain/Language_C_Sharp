@@ -1,2 +1,2 @@
-# Language_C_Sharp
+# Language C Sharp
 Some C Sharp Program
