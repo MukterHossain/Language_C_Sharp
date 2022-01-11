@@ -1,0 +1,12 @@
+c:\users\android_p\documents\visual studio 2012\Projects\primenumber1\primenumber1\bin\Debug\primenumber1.exe.config
+c:\users\android_p\documents\visual studio 2012\Projects\primenumber1\primenumber1\bin\Debug\primenumber1.exe
+c:\users\android_p\documents\visual studio 2012\Projects\primenumber1\primenumber1\bin\Debug\primenumber1.pdb
+c:\users\android_p\documents\visual studio 2012\Projects\primenumber1\primenumber1\obj\Debug\primenumber1.exe
+c:\users\android_p\documents\visual studio 2012\Projects\primenumber1\primenumber1\obj\Debug\primenumber1.pdb
+C:\Users\Android_P\Documents\Visual Studio 2012\Projects\primenumber1\primenumber1\obj\Debug\primenumber1.csprojResolveAssemblyReference.cache
+W:\C Sharp\primenumber1\primenumber1\bin\Debug\primenumber1.exe.config
+W:\C Sharp\primenumber1\primenumber1\obj\Debug\primenumber1.exe
+W:\C Sharp\primenumber1\primenumber1\obj\Debug\primenumber1.pdb
+W:\C Sharp\primenumber1\primenumber1\bin\Debug\primenumber1.exe
+W:\C Sharp\primenumber1\primenumber1\bin\Debug\primenumber1.pdb
+W:\C Sharp\primenumber1\primenumber1\obj\Debug\primenumber1.csprojResolveAssemblyReference.cache
