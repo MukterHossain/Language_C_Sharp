@@ -1,0 +1,12 @@
+c:\users\android_p\documents\visual studio 2012\Projects\projectM\projectM\bin\Debug\projectM.exe.config
+c:\users\android_p\documents\visual studio 2012\Projects\projectM\projectM\obj\Debug\projectM.csprojResolveAssemblyReference.cache
+c:\users\android_p\documents\visual studio 2012\Projects\projectM\projectM\bin\Debug\projectM.exe
+c:\users\android_p\documents\visual studio 2012\Projects\projectM\projectM\bin\Debug\projectM.pdb
+c:\users\android_p\documents\visual studio 2012\Projects\projectM\projectM\obj\Debug\projectM.exe
+c:\users\android_p\documents\visual studio 2012\Projects\projectM\projectM\obj\Debug\projectM.pdb
+W:\C Sharp\projectM\projectM\bin\Debug\projectM.exe.config
+W:\C Sharp\projectM\projectM\obj\Debug\projectM.exe
+W:\C Sharp\projectM\projectM\obj\Debug\projectM.pdb
+W:\C Sharp\projectM\projectM\bin\Debug\projectM.exe
+W:\C Sharp\projectM\projectM\bin\Debug\projectM.pdb
+W:\C Sharp\projectM\projectM\obj\Debug\projectM.csprojResolveAssemblyReference.cache
